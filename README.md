@@ -4,9 +4,9 @@
 
 
 
-- 👨‍💻 Tous mes projets sont disponible ici, opensource pour la pluparts.
-[https://github.com/KVZonGithub/](https://github.com/KVZonGithub/)
+                          - 👨‍💻 Tous mes projets sont disponible ici, opensource pour la pluparts.
+                              [https://github.com/KVZonGithub/](https://github.com/KVZonGithub/)
 
-- 📫 Me contacter ? > KVZ.#0001 | https://discord.gg/TqJKtVFCCZ
+                              - 📫 Me contacter ? > KVZ.#0001 | https://discord.gg/TqJKtVFCCZ
 
-- 👉 Merci d'avoir prit le temps de regarder mon Github, don't forget to follow for more projects.
+              - 👉 Merci d'avoir prit le temps de regarder mon Github, don't forget to follow for more projects.
